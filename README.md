@@ -1,6 +1,6 @@
 # Showcase:
 
-![enter image description here](https://media.discordapp.net/attachments/818552953132548179/1050953652392701993/Screenshot_2022-12-08_at_9.03.29_PM.png?width=1720&height=1075)
+![enter image description here]()
 
 ![enter image description here](https://media.discordapp.net/attachments/818552953132548179/1050953923680272414/Screenshot_2022-12-09_at_12.49.57_PM.png?width=1720&height=1075)
 
