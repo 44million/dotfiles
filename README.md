@@ -9,10 +9,15 @@
 # Install
 
 Yabai
+
 Neofetch
+
 Spotify-tui
+
 Alacritty
+
 Sketchybar
+
 Paper (`from mac app store`)
 
  - Übersicht (not a cli thing, download from the website)
@@ -21,6 +26,8 @@ Paper (`from mac app store`)
 		 - iStats
 		 - iwn
 		 - morning
+		 - Go to Ubersicht website to download these, on a side note, i recommend going to ubersicht's settings and disabling 'interactive', to make sure sketchybar functions properly
+
 - Spotify app
 
 nnn (cli file manager)
