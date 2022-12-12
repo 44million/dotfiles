@@ -22,12 +22,8 @@ Paper (`from mac app store`)
 
  - Übersicht (not a cli thing, download from the website)
 	 - In Ubersicht install:
-		 - Ueberplayer (set to "mini" in the index file)
-		 - iStats
-		 - iwn
-		 - morning
-		 - Go to Ubersicht website to download these, on a side note, i recommend going to ubersicht's settings and disabling 'interactive', to make sure sketchybar functions properly
+		 - Everything from the /Übersicht folder in this repo.
 
-- Spotify app
+- Spotify app (or spotifyd, but thats a headache and i dont understand it, maybe you do though.
 
 nnn (cli file manager)
