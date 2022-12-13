@@ -6,6 +6,8 @@
 
 ![enter image description here](https://media.discordapp.net/attachments/818552953132548179/1052307612642852885/Screenshot_2022-12-13_at_12.34.32_PM.png?width=1720&height=1075)
 
+![enter image description here](https://media.discordapp.net/attachments/818552953132548179/1052311946059337768/Screenshot_2022-12-13_at_12.50.47_PM.png?width=1720&height=1075)
+
 # Install
 
 Yabai
