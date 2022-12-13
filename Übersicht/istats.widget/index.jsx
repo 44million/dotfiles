@@ -39,7 +39,7 @@ const config = {
     /* Temperature unit, either 'C' or 'F' */
     tempUnit: 'F',
     /* Widget position */
-    position: 'bottom-left',
+    position: 'top-left',
     top: '100px',
     left: '-1px',
     bottom: '100px',

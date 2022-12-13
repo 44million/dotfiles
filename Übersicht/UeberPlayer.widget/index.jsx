@@ -45,7 +45,7 @@ export const className = `
   bottom: 0;
   right: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-  color: white;
+  color: rgba(255,255,255,0.4);
 
   * {
     box-sizing: border-box;
